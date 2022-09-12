@@ -27,9 +27,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -50,5 +48,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <a href="https://github.com/ottojoash/ottojoash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottojoash&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottojoash&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" />
 </a>
