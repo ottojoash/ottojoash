@@ -52,8 +52,3 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/ottojoash/ottojoash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottojoash&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<img src ="https://github-readme-streak-stats.herokuapp.com/?user=ottojoash" title="streak" alt="streak" width="300" height="300"/>
-<img src ="http://github-readme-streak-stats.herokuapp.com?user=ottojoash&theme=dark&background=000000" title="streak" alt="streak" width="300" height="300"/>
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ottojoash)](https://github.com/ottojoash/github-readme-stats" title="streak" alt="streak" width="300" height="300"/>
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ottojoash&layout=compact&theme=vision-friendly-dark" title="streak" alt="streak" width="300" height="300"/>
-<img src ="https://github.com/ottojoash/github-readme-stats" title="streak" alt="streak" width="300" height="300"/>
