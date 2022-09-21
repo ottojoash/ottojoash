@@ -25,6 +25,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://twitter.com/JoashOtto">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://snapchat.com/JoashOtto">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/>
+  </a>
 </div>
 
 
@@ -49,3 +52,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/ottojoash/ottojoash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottojoash&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  />
 </a>
+
+
