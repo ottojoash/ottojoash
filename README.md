@@ -52,5 +52,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/ottojoash/ottojoash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottojoash&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  />
 </a>
-
-
+<a href = "https://github.com/ottojoash/ottojoash">
+   <img align="center"src = "https://github-readme-stats.vercel.app/api?username=ottojoash&count_private=true,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  />
+</a>
