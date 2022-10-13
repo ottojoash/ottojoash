@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ottojoash
-- 👀 I’m interested in ...coding, network engineering and data analysis
+- 👀 I’m interested in ...coding, network engineering,cyber security and data analysis
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...python projects and artificial intelligence
 - 📫 How to reach me ...
