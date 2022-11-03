@@ -49,13 +49,15 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<a href="https://github.com/ottojoash/ottojoash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottojoash&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  />
-</a>
 
+## 🌐 Most Used Languages & 📗 Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ottojoash&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ottojoash" /></p>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ottojoash&show_icons=true&locale=en&theme=tokyonight" alt="ottojoash" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ottojoash&show_icons=true&count_private=true)  
+## 🗲 Streaks
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ottojoash&&theme=tokyonight" alt="ottojoash" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ottojoash)  
-
-
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ottojoash&row=1&theme=tokyonight)](https://github.com/ottojoash/github-profile-trophy)
+ 
