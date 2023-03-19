@@ -57,4 +57,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ottojoash&row=1&theme=tokyonight)](https://github.com/ottojoash/github-profile-trophy)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AshabaJasper&label=Profile%20views&color=0e75b6&style=flat" alt="ashabajasper" /> </p>
  
